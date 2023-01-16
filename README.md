@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Meu nome é Rafael Sabatini Leite e eu sou um desenvolvedor web front-end especializado em JavaScript e React
+
+
 <!--
 **sabatinirafa/sabatinirafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
