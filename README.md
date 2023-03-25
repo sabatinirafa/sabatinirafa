@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Rafael Sabatini Leite e eu sou um desenvolvedor web front-end especializado em JavaScript e React
+Meu nome é Rafael Sabatini Leite e eu sou um desenvolvedor web front-end e estou me especializando em JavaScript e React
 
 
 <!--
